@@ -1,3 +1,9 @@
 /gen
 /.settings
 /bin
+
+*.classpath
+*.project
+build.xml
+lint.xml
+project.properties
